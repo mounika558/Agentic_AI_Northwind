@@ -8,3 +8,23 @@ The system connects a Streamlit conversational interface with an AI agent, MCP t
 <img width="1532" height="859" alt="image" src="https://github.com/user-attachments/assets/11556967-a15d-40f9-bbdc-7a6d494ff675" />
 
 
+Tech Stack: Python, Streamlit, Gemini 3.5 Flash-Lite, LangChain, LangGraph, MCP, FastAPI, HTTPX, SAP HANA Cloud, hdbcli, Pydantic.
+
+Key Features
+🤖 AI-powered natural-language interaction
+🧠 Intelligent tool selection using Gemini
+🔧 MCP-based enterprise tools
+📦 Material and plant information retrieval
+🛒 Open sales-order retrieval
+👤 Customer summary analysis
+🎫 Support ticket creation
+💰 Overdue invoice analysis
+🔐 Role-based access for business operations
+🗄️ SAP HANA Cloud database integration
+💬 Streamlit conversational UI
+
+flowchart:
+<img width="306" height="507" alt="image" src="https://github.com/user-attachments/assets/434b3c4b-bc53-421f-b4c1-83c8c07f3e60" />
+
+
+
