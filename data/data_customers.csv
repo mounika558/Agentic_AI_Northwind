@@ -1,0 +1,101 @@
+customer_id,name,region,credit_limit,outstanding_amount,created_on
+C-001,Graham-Pierce,East,196542.22,16640.5,2024-10-07 02:56:45
+C-002,"Gross, Edwards and Russell",Central,131665.88,15894.68,2025-05-23 15:07:08
+C-003,Kirby-Stevenson,Central,33903.23,39319.16,2025-05-19 22:40:45
+C-004,"Rosario, Wood and Zamora",North,188937.39,12610.87,2026-07-05 06:21:05
+C-005,Todd-Hall,East,73297.24,26667.54,2025-02-01 14:11:29
+C-006,"Mcdaniel, Martin and Jones",North,121699.12,23924.57,2026-07-18 08:21:23
+C-007,Garza Ltd,Central,172657.17,39282.51,2026-01-06 16:35:27
+C-008,Ayala-Preston,South,137030.58,11581.79,2025-04-29 11:11:17
+C-009,"Murray, Flores and Scott",West,89871.19,45200.8,2025-04-30 14:30:34
+C-010,Mason-Smith,Central,189010.27,17126.94,2025-07-08 15:08:26
+C-011,"Evans, Robinson and Evans",Central,32380.62,38185.04,2025-03-25 07:11:14
+C-012,Floyd PLC,Central,100544.24,11786.38,2025-08-12 03:26:22
+C-013,Nichols-Nash,North,153700.52,13046.63,2024-08-28 16:59:22
+C-014,Moody Ltd,Central,110947.58,48990.96,2026-06-16 08:20:25
+C-015,Johnston LLC,Central,15527.29,9401.54,2025-01-24 10:08:44
+C-016,"Roberts, Padilla and King",North,26610.33,14767.99,2025-10-02 06:16:15
+C-017,Ross and Sons,West,193660.57,48450.28,2025-02-21 00:01:25
+C-018,"Hunt, Kelley and Martinez",North,134137.9,46651.38,2026-06-01 01:10:30
+C-019,"Washington, Nguyen and Smith",North,103619.57,26554.52,2024-10-13 10:07:08
+C-020,Clark-Smith,Central,105816.05,11854.89,2025-09-09 00:43:49
+C-021,"Terry, Ortega and Carlson",East,112210.37,8987.81,2025-12-15 06:12:56
+C-022,Martinez-Lane,North,110316.57,4794.8,2026-01-14 12:20:44
+C-023,"Shaw, Goodwin and Edwards",Central,117448.77,25147.85,2024-12-31 22:50:12
+C-024,Stark and Sons,South,109870.66,36089.2,2026-03-13 07:54:29
+C-025,"Hill, Mejia and Campbell",East,53282.63,35756.5,2026-03-31 12:59:44
+C-026,Maddox-Horton,West,159256.55,28804.33,2025-11-11 20:57:04
+C-027,Curtis-Salinas,West,192731.62,11001.66,2025-06-27 11:34:20
+C-028,"Bond, Patterson and Griffin",Central,17647.44,41056.89,2025-04-29 01:41:03
+C-029,"Gillespie, Murphy and Schwartz",North,13788.01,48340.84,2024-09-05 06:39:06
+C-030,Ingram Group,East,131142.41,19788.37,2025-07-22 16:50:49
+C-031,Ramos Group,Central,20756.85,22890.53,2026-02-27 14:50:50
+C-032,"Holmes, Barnes and White",Central,27541.58,17150.05,2024-12-30 03:49:59
+C-033,Hernandez-Jacobs,Central,78204.8,21033.12,2025-10-12 14:47:57
+C-034,Lyons-Fisher,South,156654.16,13378.59,2025-02-07 20:22:12
+C-035,"Jennings, Stephens and Gaines",East,91558.68,22434.18,2025-12-18 10:00:22
+C-036,"Nelson, Harvey and Oliver",South,194858.29,44872.52,2026-03-09 03:32:05
+C-037,Miller and Sons,West,17059.8,20864.16,2025-10-13 21:47:30
+C-038,"Lewis, Martin and Burton",North,145842.15,14908.02,2025-04-13 17:44:32
+C-039,Spence Group,East,16492.21,15317.03,2025-11-04 17:46:55
+C-040,Garcia Ltd,West,29398.5,26939.17,2024-11-04 01:58:02
+C-041,Ellis-Scott,West,171288.59,40816.39,2026-02-21 15:40:08
+C-042,Harris-Burke,South,100911.41,32938.26,2025-10-06 16:50:41
+C-043,Valentine Inc,North,32090.87,3529.3,2025-07-05 04:06:29
+C-044,Fischer Ltd,North,169148.04,14107.53,2024-10-18 05:48:06
+C-045,Perry-Adams,North,77813.71,19474.15,2025-09-22 08:48:57
+C-046,Gonzalez Ltd,Central,22496.78,32562.9,2024-11-13 04:09:42
+C-047,"Davis, Rogers and Mccarthy",North,36916.0,47961.27,2025-03-09 00:59:32
+C-048,"Chandler, Bryant and Marks",Central,131391.69,21507.88,2026-02-04 11:44:38
+C-049,Duncan-Rodriguez,North,75363.51,22530.88,2026-06-10 18:59:38
+C-050,Webb-Williams,East,39230.69,18807.05,2025-02-01 14:38:33
+C-051,Johnson-Jensen,South,81415.72,28341.27,2025-11-30 09:18:39
+C-052,"Sanchez, Carter and Rodriguez",Central,15722.17,7493.61,2025-06-19 16:41:37
+C-053,"Lester, Bennett and Wolf",West,177893.49,36544.94,2026-03-25 04:33:17
+C-054,Baker Group,West,138980.5,31094.73,2026-07-01 07:30:17
+C-055,Castro LLC,West,192790.07,21613.26,2025-05-02 23:39:08
+C-056,Reyes-Winters,East,133413.79,48988.22,2026-07-25 03:55:27
+C-057,Spears and Sons,North,144639.89,19038.26,2025-10-11 10:48:23
+C-058,Ruiz-Ward,South,59250.62,38655.05,2026-01-31 07:28:34
+C-059,"Velez, Chavez and Wilson",South,118996.63,32867.53,2026-06-23 22:28:36
+C-060,"Williams, Cortez and Henson",East,194318.72,22212.94,2025-04-22 14:35:58
+C-061,Mcgrath Ltd,Central,24751.64,45858.22,2024-10-07 21:03:03
+C-062,Smith and Sons,West,69766.94,2927.42,2026-03-27 21:37:16
+C-063,"Cochran, Russell and Baldwin",North,60707.25,10669.46,2026-05-18 09:24:55
+C-064,"Curtis, Davis and Dean",North,117044.9,19123.25,2026-06-15 12:35:55
+C-065,Hall-Williams,Central,85948.76,28856.94,2024-10-13 04:58:19
+C-066,Harris PLC,North,58665.8,15729.15,2024-11-17 03:33:35
+C-067,"Nelson, Jones and Alvarez",North,42113.29,28881.02,2025-01-10 09:36:45
+C-068,Murray and Sons,South,191855.91,522.47,2025-04-12 07:05:16
+C-069,"Collins, Miranda and Mcguire",North,166850.98,33900.58,2025-06-30 08:24:29
+C-070,Thompson and Sons,South,75097.86,35199.28,2026-02-28 14:57:38
+C-071,Odonnell-Robinson,East,78612.14,42331.66,2025-11-17 20:09:21
+C-072,Peters and Sons,East,130473.49,19171.1,2024-10-18 04:46:31
+C-073,"Wolfe, Meadows and Park",West,106293.98,36.34,2026-01-04 09:16:12
+C-074,"Bell, Holmes and Phillips",South,39776.12,6982.04,2024-10-28 10:31:34
+C-075,Stanley Inc,South,106737.28,7487.43,2026-07-05 09:24:07
+C-076,"Davis, May and Garcia",South,185645.85,38511.65,2024-11-17 05:42:50
+C-077,"Hill, Byrd and Wilson",North,20209.98,24643.95,2026-06-19 07:12:35
+C-078,Smith Ltd,West,123676.6,17624.54,2025-07-30 14:27:43
+C-079,"Dixon, Vazquez and Esparza",Central,60140.47,35671.15,2025-01-01 20:25:16
+C-080,Graham Inc,West,140440.94,13757.85,2026-06-27 00:03:24
+C-081,Lee Group,Central,111804.06,30111.18,2025-12-10 08:50:15
+C-082,"Smith, Pham and Brewer",West,132408.26,12089.83,2025-10-17 05:26:49
+C-083,Osborne Inc,East,11293.84,31664.42,2025-10-29 23:42:45
+C-084,Hunt-Drake,North,70179.43,22739.19,2025-11-28 12:19:14
+C-085,Shaw PLC,East,14948.29,31909.56,2025-11-28 13:20:43
+C-086,"Harper, Wilson and Howe",East,151963.1,908.84,2024-10-29 03:54:20
+C-087,"Smith, Branch and Conner",South,148658.08,224.72,2025-11-27 19:46:36
+C-088,Tran Ltd,North,14470.64,10888.09,2026-06-04 10:35:24
+C-089,Williams Inc,West,197080.56,33415.36,2025-09-22 16:48:42
+C-090,"Estrada, Bridges and Hamilton",North,42339.41,6042.72,2025-10-19 14:04:53
+C-091,Gardner-Miller,South,190940.44,48076.41,2026-03-12 02:59:49
+C-092,"Velasquez, Griffin and Jones",South,41445.36,6769.5,2026-06-17 16:59:12
+C-093,"Wilson, Foley and Richardson",East,72415.99,38768.74,2026-02-11 22:15:15
+C-094,"Perry, Wang and Robinson",South,58411.27,32571.97,2026-05-14 23:42:06
+C-095,Freeman-Carter,South,60211.52,6252.63,2024-09-23 10:21:48
+C-096,Carroll and Sons,Central,63210.07,10411.74,2024-12-08 22:45:56
+C-097,"Reed, Allen and Wilson",South,17541.31,13454.27,2026-06-06 19:53:55
+C-098,Johnson LLC,West,86342.84,1334.06,2025-09-09 22:06:26
+C-099,"Lopez, Townsend and Jordan",North,51703.38,31582.61,2025-07-06 16:20:49
+C-100,Steele-Kramer,South,61552.84,16724.03,2026-01-08 00:27:00
